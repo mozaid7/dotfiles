@@ -7,7 +7,6 @@ My personal configuration files and setup scripts to quickly bootstrap a develop
 - `bashrc`, `zshrc` — shell configuration and aliases
 - `vscode/settings.json` — VS Code settings
 - `tmux.conf` — tmux shortcuts
-- `install.sh` / `install.ps1` — install scripts to symlink files
 
 ## Install (Linux / macOS / WSL)
 ```bash
