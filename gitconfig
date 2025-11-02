@@ -1,0 +1,22 @@
+[user]
+    name = Syed Mohammed Zaid
+    email = mozaid7@example.com
+
+[core]
+    editor = code --wait
+    autocrlf = input
+
+[color]
+    ui = auto
+
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    cm = commit -m
+    df = diff
+    lg = log --oneline --graph --decorate --all
+    amend = commit --amend --no-edit
+
+[push]
+    default = simple
